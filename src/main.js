@@ -3,6 +3,7 @@ import Vue from "vue";
 import App from "./App.vue";
 import { MdField } from "vue-material/dist/components";
 import "vue-material/dist/vue-material.min.css";
+import "./style.scss";
 
 Vue.use(MdField);
 
